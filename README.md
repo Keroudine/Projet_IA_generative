@@ -1,7 +1,6 @@
 # IA générative : Création d'un assistant virtuel avec Python et OpenAI
 
-
-Dans un monde où l'accès à l'information est devenu omniprésent grâce à la prolifération des médias numériques, trouver des réponses pertinentes est de plus en plus difficile. Face à cette surcharge informationnelle, notre application offre une solution novatrice en combinant l'intelligence artificielle à une interface utilisateur conviviale. Notre objectif est de simplifier la recherche d'informations dans ce dédale de données, répondant ainsi aux besoins variés des utilisateurs confrontés à des défis complexes. Notre application exploite les dernières avancées en matière d'intelligence artificielle pour extraire efficacement les informations pertinentes des documents numériques, améliorant ainsi l'expérience utilisateur de manière significative.
+Le projet consiste en une application d'assistant de discussion contextuelle avec IA qui simplifie la recherche d'informations pertinentes à partir de documents PDF. L'application utilise l'intelligence artificielle pour extraire efficacement le texte des fichiers PDF, permet aux utilisateurs de poser des questions contextuelles et fournit des réponses précises. Les fonctionnalités clés incluent l'extraction automatique du texte, la communication fluide avec l'IA et une interface utilisateur conviviale. En combinant des technologies telles que l'API OpenAI, Python et Tkinter, l'application offre une expérience optimale pour les utilisateurs dans divers contextes académiques, professionnels ou personnels.
 
 
 
